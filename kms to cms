@@ -1,0 +1,7 @@
+km=int(input("enter the distance in km : "))
+cent=(km*100000)
+print("the distance in centimeters : ", cent)
+
+output:
+enter the distance in km : 450
+the distance in centimeters :45000000   
